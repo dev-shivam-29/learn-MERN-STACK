@@ -1,0 +1,1 @@
+console.log("This is the switch.js file in the basis js directory.");
