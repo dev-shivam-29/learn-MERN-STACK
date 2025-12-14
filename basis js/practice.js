@@ -1,3 +1,2 @@
-let passward = prompt("set your password");
-let newPass =password.trim();
- console.log(password);
+let msg ="apnacollege";
+console.log(msg.slice(4, msg.length));
