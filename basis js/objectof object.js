@@ -1,16 +1,14 @@
-const classInfo = [
-    {
-        name:"aman",
+const classInfo ={
+    aman:{
         grade:"a+",
         city:"delhi",
     },
-    {
-        name:"shivam",
+    shivam:{
         grade:"a",
         city:"rewa",
     },
-    {   name:"karan",
+    karan:{
         grade:"o",
         city:"bhopal",
     }
-];
+};
