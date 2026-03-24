@@ -1,11 +1,13 @@
+
 import "./App.css";
+import Title from "./Title.jsx";
+import ProductTab from "./ProductTab.jsx";
 
-function Title(){
-  return<h1> i am a tittle </h1>;
+
+function App() {
+  
+  return <ProductTab />;
 }
 
-function App(){
-  return<Title/>
-}
 
 export default App;
